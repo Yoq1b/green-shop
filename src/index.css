@@ -1,0 +1,150 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a.active {
+  font-weight: 700;
+  color: #3d3d3d;
+  border-bottom: 3px solid #46a358;
+  transition: all ease 200ms;
+}
+.basket {
+  height: 24px;
+}
+.basket.active {
+  border: none;
+}
+.logo{
+  border: none;
+}
+.logo.active {
+  border: none;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+.hovered {
+  transform: scale(1.1); /* Ikonkani kattarish */
+  border-radius: 0px;
+  /* border-color: red; */
+  transition: transform 0.3s ease, border-width 0.3s ease, border-radius 0.3s ease, border-color 0.3s ease; /* Ranglarni o'zgartirish uchun tranzitsiya */
+}
+
+.icon-hovered {
+  transform: scale(1.2); /* Ikonkani kattarish */
+  transition: transform 0.3s ease, color 0.3s ease; /* Animatsiyani animatsiyalash */
+}
+
+li {
+  transition: transform 0.3s ease; /* Darxolni qayta orqaga o'tkazish uchun animatsiya */
+}
+
+
+
+.btn-style510 {
+  --btn-color: #46A358;
+  --btn-hover-color: #3b894b;
+  position: relative;
+  background-color: var(--btn-color);
+  border-color: var(--btn-color);
+  color: #fff;
+
+  &::before,
+  &::after {
+    width: 49px;
+    height: 35px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: var(--btn-hover-color);
+    transition: all 0.5s ease;
+    transform: scale(0);
+    content: "";
+    z-index: -1;
+  }
+
+  &::before {
+    top: -8px;
+    left: 10%;
+  }
+
+  &::after {
+    bottom: -8px;
+    right: 15%;
+  }
+
+  &:hover {
+    background-color: var(--btn-hover-color);
+    border-color: var(--btn-hover-color);
+
+    &::before,
+    &::after {
+      transform: scale(1);
+    }
+  }
+}
+.btn-style509 {
+  --btn-color: #46A358;
+  --btn-hover-color: #3b894b;
+  position: relative;
+  background-color: var(--btn-color);
+  border-color: var(--btn-color);
+  color: #fff;
+
+  &::before,
+  &::after {
+    width: 89px;
+    height: 48px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: var(--btn-hover-color);
+    transition: all 0.5s ease;
+    transform: scale(0);
+    content: "";
+    z-index: -1;
+  }
+
+  &::before {
+    top: -8px;
+    left: 10%;
+  }
+
+  &::after {
+    bottom: -8px;
+    right: 15%;
+  }
+
+  &:hover {
+    background-color: var(--btn-hover-color);
+    border-color: var(--btn-hover-color);
+
+    &::before,
+    &::after {
+      transform: scale(1);
+    }
+  }
+}
+.btn-style501 {
+  --btn-color: linear-gradient(to right, #46A358 0%, #5FB376 51%, #46A358 100%);
+
+  background-image: var(--btn-color);
+  background-size: 200% auto;
+  background-position: left top;
+  border-color: transparent;
+  color: #464646;
+  transition: background-position 0.5s ease, color 0.5s ease;
+
+  &:hover {
+    background-position: right bottom;
+    color: #000;
+  }
+}
+.invalid-input {
+  border: 1px solid red; /* Qizil border */
+}

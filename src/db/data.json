@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F6a974e9c-f86a-4a4e-9350-4955074d3227&w=1920&q=75",
+      "title": "Longer 1+1=3",
+      "name": "Aksiya Longer 2+1 Ikkita longer xarid qiling - uchinch...",
+      "price": 30000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 2,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fcf015491-69fd-4b45-a069-eaf5af9295c7&w=1920&q=75",
+      "title": "Trendvich",
+      "name": "Trendvich Toster bulochkasi, mayonez, aysberg salat ba...",
+      "price": 30000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 3,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F2d561c22-b8b9-4f16-ae5a-9b029a74b054&w=1920&q=75",
+      "title": "Maxi BOX Trendvich",
+      "name": "Trendvich, kartoshka fri, 0,4 l coca cola, tanlash uch...",
+      "price": 45000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 4,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F68352497-3ec8-45c9-94fd-2e8258ed916c&w=1920&q=75",
+      "title": "Maxi BOX Traditsiya",
+      "name": "Original sendvich, kartoshka fri, 0,4 l coca cola, tanl...",
+      "price": 45000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 5,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F05323470-5019-497a-b82c-62028a52acae&w=1920&q=75",
+      "title": "Maxi BOX Popular",
+      "name": "Original lavash, kartoshka fri, 0,4 l coca cola, tanlas...",
+      "price": 45000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 6,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fd667c0e2-86e8-4274-92f8-4362d668b862&w=1920&q=75",
+      "title": "Maxi BOX Retro",
+      "name": "Shaurma Original, kartoshka fri, 0,4 l coca cola , tanl...",
+      "price": 42000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 7,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F6ef451bc-3911-4fd7-997c-a9cebfc6e97d&w=1920&q=75",
+      "title": "Maxi BOX German",
+      "name": "German Donar , kartoshka fri, 0,4 l coca cola, tanlash ...",
+      "price": 45000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 8,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F5657118e-9780-4e71-aa3c-ac497b83b68a&w=1920&q=75",
+      "title": "Maxi BOX Trend",
+      "name": "Gamburger, kartoshka fri, 0,4 l coca cola, tanlash uch...",
+      "price": 40000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 9,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fe0440d6c-af39-4a58-bac2-95c65f378251&w=1920&q=75",
+      "title": "Mini BOX",
+      "name": "Longer, kartoshka fri, coca-cola 0,3, tanlovga ko'ra so...",
+      "price": 25000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 10,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F2d561c22-b8b9-4f16-ae5a-9b029a74b054&w=1920&q=75",
+      "title": "Maxi BOX Trendvich",
+      "name": "Trendvich, kartoshka fri, 0,4 l coca cola, tanlash uch...",
+      "price": 45000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 11,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F033adb7c-0289-4f80-a0a9-05fda8e23bc5&w=1920&q=75",
+      "title": "Klab sendvich",
+      "name": "Original sendvich, kartoshka fri, tanlash uchun sous",
+      "price": 38000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 12,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F6e75db0d-01c9-47e3-b178-0a2e61cd46fb&w=1920&q=75",
+      "title": "Sendvich Original",
+      "name": "Original sendvich, kartoshka fri, tanlash uchun sous",
+      "price": 30000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 13,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fcf015491-69fd-4b45-a069-eaf5af9295c7&w=1920&q=75",
+      "title": "Trendvich",
+      "name": "Trendvich Toster bulochkasi, mayonez, aysberg salat ba...",
+      "price": 30000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 14,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fe3061877-9d75-4091-8efa-87bf0f28378d&w=1920&q=75",
+      "title": "Lavash standart klassik",
+      "name": "Lavash xamiri, mol go'shti-donar, pomidor, chipslar, po...",
+      "price": 30000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 15,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fa384d0af-c061-4e27-bd18-38ad16d67276&w=1920&q=75",
+      "title": "Lavash standart pishloqli",
+      "name": "Lavash xamiri, mol go'shti-donar, pomidor, chipslar, pom...",
+      "price": 33000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 16,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fcc495de6-57c7-4c4c-92c6-475d5fbf3691&w=1920&q=75",
+      "title": "Lavash standart achchiq",
+      "name": "Lavash xamiri, mol go'shti donar, pomidor, kartoshkali ...",
+      "price": 30000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 17,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fcc495de6-57c7-4c4c-92c6-475d5fbf3691&w=1920&q=75",
+      "title": "Lavash mini classic",
+      "name": "Lavash xamiri, mol go'shti-donar, pomidor, chipslar, po...",
+      "price": 25000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 18,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fcc495de6-57c7-4c4c-92c6-475d5fbf3691&w=1920&q=75",
+      "title": "Lavash mini pishloqli",
+      "name": "Lavash xamiri, mol go'shti-donar, pomidor, chipslar, po...",
+      "price": 28000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 19,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F1b1149fb-7e05-45bb-a92b-595b83c16d5a&w=1920&q=75",
+      "title": "German Donar",
+      "name": "Non, ranch sousi, qizil karam salati, Doner go'shti, ay...",
+      "price": 30000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 20,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fdbb583ca-0328-4035-af73-8409b158019c&w=1920&q=75",
+      "title": "Shaurma",
+      "name": "Donor bulochka, mol go'shti-donar, yangi bodring, pomid...",
+      "price": 28000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 21,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F79a3bc17-bbf5-4b5e-8337-9632683bd81e&w=1920&q=75",
+      "title": "Shaurma pishloqli",
+      "name": "Donor bulochka, mol go'shti-donar, yangi bodring, pomid...",
+      "price": 30000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 22,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F33f3c109-bbca-40a1-8d68-455a6f88b1f0&w=1920&q=75",
+      "title": "Gamburger",
+      "name": "Burger bulochkasi, tuzlangan bodring, pomidor, go'shtli...",
+      "price": 25000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 23,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Ffa034d3e-a445-4068-9475-05e71706910b&w=1920&q=75",
+      "title": "Chizburger",
+      "name": "Burger bulochkasi, tuzlangan bodring, pomidor, go'shtli...",
+      "price": 28000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 24,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fe4015fd5-0988-47e1-bb3e-9c1b6d1a0e90&w=1920&q=75",
+      "title": "Bigburger",
+      "name": "Burger bulochkasi, tuzlangan bodring, pomidor, go'shtli...",
+      "price": 40000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 25,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F561cf6a1-3f19-479d-b057-04c11ee0b891&w=1920&q=75",
+      "title": "Donar kebab",
+      "name": "Mol go'shti donari-go'sht, makkajo'xori bilan guruch, k...",
+      "price": 42000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 26,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F758cffd0-206c-4bae-8c6e-976008ca2beb&w=1920&q=75",
+      "title": "Donar box",
+      "name": "Mol go'shti donari-go'sht, makkajo'xori bilan guruch, k...",
+      "price": 37000,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 27,
+      "image": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fa16f5b4d-5c74-494f-a905-67d3d2edb4d6&w=1920&q=75",
+      "title": "Non",
+      "name": "Yumshoq bulochka",
+      "price": 3000,
+      "caterogy": "Hot Dishes"
+    }
+  ]
+}

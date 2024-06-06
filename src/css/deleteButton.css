@@ -1,0 +1,222 @@
+@keyframes rotateRight {
+  0% {
+    transform: rotate(0deg) scale(1.1);
+  }
+  20% {
+    transform: rotate(10deg) scale(1.1);
+  }
+  40% {
+    transform: rotate(-10deg) scale(1);
+  }
+  60% {
+    transform: rotate(10deg) scale(1.1);
+  }
+  80% {
+    transform: rotate(-10deg) scale(1);
+  }
+  100% {
+    transform: rotate(0deg) scale(1);
+  }
+}
+
+@keyframes rotateLeft {
+  0% {
+    transform: rotate(0deg) scale(1);
+  }
+  20% {
+    transform: rotate(3deg) scale(1);
+  }
+  40% {
+    transform: rotate(-3deg) scale(1);
+  }
+  60% {
+    transform: rotate(3deg) scale(1);
+  }
+  80% {
+    transform: rotate(-3deg) scale(1);
+  }
+  100% {
+    transform: rotate(0deg) scale(1);
+  }
+}
+@keyframes rotateX {
+  0% {
+    transform: rotate(0deg) scale(2);
+  }
+  20% {
+    transform: rotate(5deg) scale(2);
+  }
+  40% {
+    transform: rotate(-5deg) scale(2);
+  }
+  60% {
+    transform: rotate(5deg) scale(2);
+  }
+  80% {
+    transform: rotate(-5deg) scale(2);
+  }
+  100% {
+    transform: rotate(0deg) scale(2);
+  }
+}
+@keyframes rotateScale {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.hover\:rotateRight:hover {
+  animation: rotateRight 0.5s infinite alternate;
+}
+.hover\:rotateScale:hover {
+  animation: rotateScale 0.7s infinite alternate;
+}
+.hover\:rotateX:hover {
+  animation: rotateRight 1s infinite alternate;
+}
+
+.hover\:rotateLeft:hover {
+  animation: rotateLeft 0.7s infinite alternate;
+}
+.rotateLeft {
+  animation: rotateLeft 1s infinite alternate;
+  animation-delay: 3s;
+}
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.text-unavailable {
+  cursor: pointer;
+  font-size: 45px;
+  margin-top: 100px;
+  opacity: 0; /* Boshlang'ich holatda text ko'rinmasligi */
+  animation: fade-in 0.1s ease-in-out forwards; /* Animatsiya */
+}
+
+@keyframes fadeInChar {
+  0% {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  20% {
+    opacity: 0.1;
+    transform: translateY(-55px);
+  }
+  40% {
+    opacity: 0.4;
+    transform: translateY(-5px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(5px);
+  }
+}
+
+.text-unavailable span {
+  display: inline-block;
+  opacity: 0;
+  animation: fadeInChar 0.001s ease-in-out forwards;
+}
+
+.option-custom option {
+  height: 40px; /* option elementining balandligi */
+}
+.checkbox-round {
+  border: 1px solid green;
+  width: 15px;
+  height: 15px;
+  background-color: white;
+  border-radius: 50%;
+  vertical-align: middle;
+  border: 2px solid #46a358;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.checkbox-round:checked {
+  background-color: #46a358;
+}
+.checkbox-wrapper-48 {
+  --gray: #636e72;
+  --very-light-gray: #eee;
+  --light-gray: #9098a9;
+  --x-light-gray: #dfe6e9;
+  --color: #46a358;
+}
+
+.checkbox-wrapper-48 input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border: 1.2px solid var(--color);
+}
+.checkbox-wrapper-48 input[type="radio"] {
+  border-radius: 50%;
+}
+.checkbox-wrapper-48 input:checked {
+  cursor: pointer;
+  border-color: #46a358;
+  background: var(--color) border-box;
+  box-shadow: 0 0 0 0.1em inset #fff;
+}
+.checkbox-wrapper-48 input:not(:checked):hover {
+  cursor: pointer;
+  border-color: #46a358;
+  background: linear-gradient(#fff, #fff), var(--color) border-box;
+}
+.btn-style509 {
+  --btn-color: #46a358;
+  --btn-hover-color: #3b894b;
+  position: relative;
+  background-color: var(--btn-color);
+  border-color: var(--btn-color);
+  color: #fff;
+
+  &::before,
+  &::after {
+    width: 89px;
+    height: 48px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: var(--btn-hover-color);
+    transition: all 0.5s ease;
+    transform: scale(0);
+    content: "";
+    z-index: -1;
+  }
+
+  &::before {
+    top: -8px;
+    left: 10%;
+  }
+
+  &::after {
+    bottom: -8px;
+    right: 15%;
+  }
+
+  &:hover {
+    background-color: var(--btn-hover-color);
+    border-color: var(--btn-hover-color);
+
+    &::before,
+    &::after {
+      transform: scale(1);
+    }
+  }
+}
